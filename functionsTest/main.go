@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	someFunc "goStudy/importTest"
+	someFunc "goStudy/functionsTest/importTest"
 	"strings"
 )
 
